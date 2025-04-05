@@ -53,4 +53,4 @@ This room helped me understand the terminology and concepts that I’ll encounte
 
 ## 🔗 Room Link
 
-[TryHackMe – Intro to Cyber Security](https://tryhackme.com/room/introtooffensivesecurity)
+[TryHackMe – Intro to Cyber Security](https://tryhackme.com/path/outline/introtocyber)
