@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Tom,
 
-<!--
-**secby-tom/secby-tom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm on a 15-month journey (from April 2025) to become a Blue Team cybersecurity professional, focused on SOC analysis, defensive security, and real-world problem solving.
 
-Here are some ideas to get you started:
+## 🛡️ What I'm Working On:
+- Linux (CLI, OverTheWire, TCM Linux)
+- Python for automation & security tools
+- TryHackMe (Pre-Security Path, Cyber Defense)
+- Splunk, SIEM tools, Log analysis
+- CompTIA Security+ (in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Repositories
+
+- [TryHackMe Writeups](./TryHackMe-Writeups)
+- [Python Scripts](./Python-Scripts)
+- [Linux Notes](./Linux-Notes)
+- [Certificates](./Certificates)
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/tomas-smida-268099354/)
+- [TryHackMe Profile](https://tryhackme.com/p/ppulsehq.eng)
+
